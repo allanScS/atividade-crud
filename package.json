@@ -1,0 +1,21 @@
+{
+  "name": "api-crud-simples",
+  "version": "1.0.0",
+  "description": "API CRUD simples com herança",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": ["api", "crud", "node"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
+
+
