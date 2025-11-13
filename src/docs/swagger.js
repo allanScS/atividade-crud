@@ -16,13 +16,13 @@ const swaggerOptions = {
     },
     servers: [
       {
-        url: 'http://localhost:3000',
-        description: 'Servidor de Desenvolvimento',
-      },
-      {
-        url: 'https://seu-app.onrender.com',
+        url: 'https://atividade-crud.onrender.com',
         description: 'Servidor de Produção (Render)',
       },
+      {
+        url: 'http://localhost:3000',
+        description: 'Servidor de Desenvolvimento',
+      }
     ],
     tags: [
       {
